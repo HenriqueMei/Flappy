@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CE775A7B-8D37-9F49-99E0-89C8B923E5C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/flappy.cs">
+    <Files>
+      <File FileName="Assets/flappy.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flappy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="flappy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93d35dfc-3e46-433d-85c1-56e393671907" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

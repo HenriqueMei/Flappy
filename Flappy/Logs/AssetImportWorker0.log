@@ -1,0 +1,281 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/henriquemei/Documents/Faculdade/Games2-Flappy/Flappy
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53403
+Successfully changed project path to: /Users/henriquemei/Documents/Faculdade/Games2-Flappy/Flappy
+/Users/henriquemei/Documents/Faculdade/Games2-Flappy/Flappy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/henriquemei/Documents/Faculdade/Games2-Flappy/Flappy/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-18 22:20:31.531 Unity[6505:288494] Color LCD preferred device: Intel Iris Graphics (low power)
+2021-03-18 22:20:31.531 Unity[6505:288494] Metal devices available: 1
+2021-03-18 22:20:31.531 Unity[6505:288494] 0: Intel Iris Graphics (low power)
+2021-03-18 22:20:31.532 Unity[6505:288494] Using device Intel Iris Graphics (low power)
+Initializing Metal device caps: Intel Iris Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56505
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002775 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 45.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.785 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 48.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.619 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.5 MB.
+System memory in use after: 143.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 3.247126 ms (FindLiveObjects: 0.417074 ms CreateObjectMapping: 0.141563 ms MarkObjects: 2.525996 ms  DeleteObjects: 0.161141 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba476815db7ad42a2b57ed15803c13eb') in 1.549384 seconds
+  Import took 1.556118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.762592 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a1dce9196102c8d95561a98da4a66f') in 0.032832 seconds
+  Import took 0.046054 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001497 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.516 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.3 MB.
+System memory in use after: 151.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 4.128943 ms (FindLiveObjects: 0.289720 ms CreateObjectMapping: 0.135657 ms MarkObjects: 3.565695 ms  DeleteObjects: 0.135303 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 316.458531 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3cf79caa1aaf1676b58a468807e766') in 0.077625 seconds
+  Import took 0.083969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 461.803073 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aefd03677c7e604dc53b048b1640eed') in 0.185293 seconds
+  Import took 0.190915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.490828 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13042de714f64640bd1498c704427f34') in 0.144756 seconds
+  Import took 0.150394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 508.930929 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9875a60391054eb4438101fa53b2a7') in 0.141058 seconds
+  Import took 0.151863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.125098 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726923191d1cb984fc8bc57f7ae18acb') in 0.149655 seconds
+  Import took 0.154937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.089208 seconds.
+  path: Assets/flappy.png
+  artifactKey: Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.png using Guid(de01fbd9a4ec5477d839dda62386a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648106fac7ec0b52cbfcf1e5de4f206e') in 0.148317 seconds
+  Import took 0.154435 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 152.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 4.431452 ms (FindLiveObjects: 0.295547 ms CreateObjectMapping: 0.171364 ms MarkObjects: 3.728417 ms  DeleteObjects: 0.234002 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.339 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.3 MB.
+System memory in use after: 152.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.950526 ms (FindLiveObjects: 0.311915 ms CreateObjectMapping: 0.179457 ms MarkObjects: 2.332515 ms  DeleteObjects: 0.125134 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.316 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 3.068890 ms (FindLiveObjects: 0.333629 ms CreateObjectMapping: 0.172061 ms MarkObjects: 2.428695 ms  DeleteObjects: 0.132895 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.689 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.7 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4.406908 ms (FindLiveObjects: 0.401622 ms CreateObjectMapping: 0.182205 ms MarkObjects: 3.668552 ms  DeleteObjects: 0.152040 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1275.375229 seconds.
+  path: Assets/flappy.cs
+  artifactKey: Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flappy.cs using Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad67f594fd63c75451d84d0bdcfd17c') in 0.471362 seconds
+  Import took 0.476340 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.2 MB.
+System memory in use after: 157.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 4.804806 ms (FindLiveObjects: 0.538928 ms CreateObjectMapping: 0.236809 ms MarkObjects: 3.792600 ms  DeleteObjects: 0.234322 ms)
+
