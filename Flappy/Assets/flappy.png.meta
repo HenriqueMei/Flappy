@@ -244,27 +244,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: canob
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 29
-        width: 26
-        height: 160
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28b12afc793d6f600800000000000000
-      internalID: 501821057475419010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: flappy_1
       rect:
         serializedVersion: 2

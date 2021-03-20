@@ -56,7 +56,11 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/flappy.cs" />
+    <Compile Include="Assets/Flappy.cs" />
+    <Compile Include="Assets/Cano.cs" />
+    <Compile Include="Assets/CanoNovo.cs" />
+    <Compile Include="Assets/GameControl.cs" />
+    <Compile Include="Assets/Pontos.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
