@@ -247,8 +247,8 @@ TextureImporter:
       name: flappy_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 9
+        x: 115
+        y: 118
         width: 17
         height: 12
       alignment: 0
@@ -269,7 +269,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 115
-        y: 171
+        y: 93
         width: 17
         height: 12
       alignment: 0
@@ -290,7 +290,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 115
-        y: 145
+        y: 66
         width: 17
         height: 12
       alignment: 0
