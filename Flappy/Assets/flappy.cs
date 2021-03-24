@@ -19,7 +19,7 @@ public class Flappy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0))
         {
             //velocity adiciona velocidade
             //Vector2.up subir
