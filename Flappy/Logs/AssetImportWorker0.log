@@ -1,0 +1,123 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 65364 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mei/Documents/GitHub/Flappy/Flappy
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53401
+Successfully changed project path to: C:/Users/Mei/Documents/GitHub/Flappy/Flappy
+C:/Users/Mei/Documents/GitHub/Flappy/Flappy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mei/Documents/GitHub/Flappy/Flappy/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001609 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 1.868900 ms (FindLiveObjects: 0.248700 ms CreateObjectMapping: 0.101200 ms MarkObjects: 1.403500 ms  DeleteObjects: 0.114600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Cano.cs
+  artifactKey: Guid(35a320fb47bea4754bd43758a936de43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cano.cs using Guid(35a320fb47bea4754bd43758a936de43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ab0a313c2bcd542ba815d9dd44c847') in 0.021076 seconds
+  Import took 0.023687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.851463 seconds.
+  path: Assets/Flappy.cs
+  artifactKey: Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy.cs using Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b154eb6e2a6408a5062ef0ac9c41091') in 0.007583 seconds
+  Import took 0.010465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001130 seconds.
+  path: Assets/Flappy.cs
+  artifactKey: Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy.cs using Guid(2e7ce96792be440c08046eac49839860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b154eb6e2a6408a5062ef0ac9c41091') in 0.002757 seconds
+  Import took 0.006377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.223863 seconds.
+  path: Assets/GameControl.cs
+  artifactKey: Guid(d446d675dc17942b2a081f74441e394a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameControl.cs using Guid(d446d675dc17942b2a081f74441e394a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a2dfabd87bcabc78b0c8c0e3104b81') in 0.009483 seconds
+  Import took 0.012644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.350013 seconds.
+  path: Assets/Pontos.cs
+  artifactKey: Guid(cdacbbaec69ae47a9954d155eb27c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pontos.cs using Guid(cdacbbaec69ae47a9954d155eb27c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c62910b5900caf696fdc1288a2899e8') in 0.007961 seconds
+  Import took 0.011705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.928034 seconds.
+  path: Assets/CanoNovo.cs
+  artifactKey: Guid(8ef0d7edd409543658e64ac094d43c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CanoNovo.cs using Guid(8ef0d7edd409543658e64ac094d43c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698b2b6bade14afe0e2b833a8e3a6854') in 0.008368 seconds
+  Import took 0.011480 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
